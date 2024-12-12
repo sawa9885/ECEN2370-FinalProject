@@ -1,0 +1,4 @@
+../Core/Src/MainMenu.c:20:6:IsOverlap	48	static
+../Core/Src/MainMenu.c:55:6:PlaceBlock	32	static
+../Core/Src/MainMenu.c:62:6:DrawPlayButton	16	static
+../Core/Src/MainMenu.c:72:6:DisplayMenu	64	static

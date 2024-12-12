@@ -1,0 +1,7 @@
+../Core/Src/ApplicationCode.c:28:6:ApplicationInit	16	static
+../Core/Src/ApplicationCode.c:54:6:MainMenu	8	static
+../Core/Src/ApplicationCode.c:59:6:Game	8	static
+../Core/Src/ApplicationCode.c:72:6:LCDTouchScreenInterruptGPIOInit	32	static
+../Core/Src/ApplicationCode.c:95:6:EXTI15_10_IRQHandler	16	static
+../Core/Src/ApplicationCode.c:159:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/ApplicationCode.c:165:6:HAL_TIM_PeriodElapsedCallback	16	static

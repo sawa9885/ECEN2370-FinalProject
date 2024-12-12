@@ -1,0 +1,2 @@
+../Core/Src/ApplicationCode.c:23:6:ApplicationInit	8	static
+../Core/Src/ApplicationCode.c:44:6:LCD_Visual_Demo	8	static

@@ -1,0 +1,13 @@
+../Core/Src/Game.c:107:6:InitializeGame	1
+../Core/Src/Game.c:119:6:RenderGameScreen	10
+../Core/Src/Game.c:164:6:RenderNextBlock	1
+../Core/Src/Game.c:174:6:UpdateFallingBlock	13
+../Core/Src/Game.c:214:6:MoveFallingBlockLeft	9
+../Core/Src/Game.c:237:6:MoveFallingBlockRight	9
+../Core/Src/Game.c:260:6:RotateFallingBlock	28
+../Core/Src/Game.c:351:6:ShuffleBag	3
+../Core/Src/Game.c:368:6:FormatTimerString	1
+../Core/Src/Game.c:378:6:DisplayTimer	2
+../Core/Src/Game.c:400:6:ClearFullRows	13
+../Core/Src/Game.c:459:6:SpawnFallingBlock	6
+../Core/Src/Game.c:480:6:SpawnRandomBlock	4
